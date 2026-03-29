@@ -68,11 +68,11 @@ The dataset consists of multiple biomedical voice measurements extracted from vo
 
 📊 Model performance comparison:
 
-👉 ![Model Performance](./assets/result.png)
+![Model Performance](./assets/result.png)
 
 📊 Model performance visualization:
 
-👉 ![Model Performance visualization](./assets/performance.png)
+![Model Performance visualization](./assets/performance.png)
 
 ---
 
